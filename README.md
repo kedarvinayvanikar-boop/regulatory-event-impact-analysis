@@ -1,4 +1,4 @@
-# regulatory-event-impact-analysis
+# Regulatory Event Study & Market Reaction Analysis
 Apple Inc. — U.S. Department of Justice Antitrust Monopolization Lawsuit
 
 Overview
